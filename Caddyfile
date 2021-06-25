@@ -1,0 +1,8 @@
+{
+    auto_https off
+}
+
+http://1212-edmer-ave.fly.dev {
+    root * /usr/share/caddy
+    file_server
+}
