@@ -38,5 +38,5 @@ and apartment buildings from designs by Pearson. Like many architects,
 Pearson would design a house and then license a contractor to build a certain
 number of houses from that plan, as well as variations of it.
 
-Above is a quote from the "Dull Thesis".
+The above is a quote from the "Dull Thesis".
 ![Dull Thesis](/images/dull-thesis-cover.jpg)
