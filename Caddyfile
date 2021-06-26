@@ -1,3 +1,4 @@
+# Cribbed from https://fly.io/blog/hugo-s-there-flying-with-hugo-and-caddy/
 {
     auto_https off
 }
