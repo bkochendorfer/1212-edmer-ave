@@ -1,9 +1,14 @@
 # Cribbed from https://fly.io/blog/hugo-s-there-flying-with-hugo-and-caddy/
 {
+    admin off
     auto_https off
 }
 
-http://1212-edmer-ave.fly.dev {
+http://1212-edmer-ave.house {
     root * /usr/share/caddy
     file_server
+}
+
+http://1212-edmer-ave.fly.dev {
+    redir https://1212-edmer-ave.house/
 }
