@@ -7,7 +7,7 @@ type:
 - post
 - posts
 title: George Pearson Architect
-eventname: General information
+eventname: Information, other homes, etc
 eventlocation: Norrkopping, Sweden
 weight: 0
 ---
@@ -38,5 +38,16 @@ and apartment buildings from designs by Pearson. Like many architects,
 Pearson would design a house and then license a contractor to build a certain
 number of houses from that plan, as well as variations of it.
 
-The above is a quote from the "Dull Thesis".
+The above is a quote from the "Dull Thesis". The thesis is available at the [Oak Park Public Library](https://catalog.swanlibraries.net/client/en_US/ops/search/detailnonmodal/ent:$002f$002fSD_ILS$002f0$002fSD_ILS:934919/ada?qu=domestic+architecture+of+oak+park&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A934919%7EILS%7E0&h=8) and some content is viewable on [Google Scholar](https://books.google.com/books/about/The%C5%93_Domestic_Architecture_of_Oak_Park.html?id=h3k9vwEACAAJ&hl=en&output=html_text)
 ![Dull Thesis](/images/dull-thesis-cover.jpg)
+
+## More information
+
+{{< tweet 995051963644633088 >}}
+
+## List of homes by Pearson in Oak Park
+This list is from the glossary of the "Dull Thesis"
+![Houses 1](/images/houses-1.jpg)
+![Houses 2](/images/houses-2.jpg)
+![Houses 3](/images/houses-3.jpg)
+![Houses 4](/images/houses-4.jpg)

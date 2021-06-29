@@ -7,7 +7,7 @@ type:
 - post
 - posts
 title: Land Survey
-eventname: Oak Park
+eventname: 1930s survey showing 1212 Edmer
 eventlocation: Oak Park, IL
 weight: 0
 ---

@@ -7,7 +7,7 @@ type:
 - post
 - posts
 title: Peter Peterson
-eventname: Listing in Phonebook
+eventname: Listing in Oak Park Phonebook
 eventlocation: Oak Park, IL
 weight: 0
 ---
